@@ -1,5 +1,5 @@
 import Navbar from "./Navbar";
-import Services from "./servicepage";
+import Services from "./Servicepage";
 function App() {
     return (
         <div>

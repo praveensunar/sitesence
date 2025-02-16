@@ -38,9 +38,46 @@ export default function Services(){
         </div>
         </div>
   </section>
-  <section>
-    ewdavcz hjbkjnj
-  </section>
+
+<section>
+
+    <div className="block-marketing__content">
+        <div className="right">
+            <div className="blue-text">
+              <h5>America’s #1 Rated Digital Marketing Agency</h5>
+            </div>
+              <h3>With SmartSites, you get the best services,<br /> processes, and people to grow your business.</h3>
+              <div className="img-wrap">
+                  <strong>Featured In</strong>
+                  <ul className="brand-image">
+                  <li>
+                  <img src="https://www.smartsites.com/media/service-featured-in-forbes.png" alt="Featured In Forbes"/>
+                  </li>
+                  <li>
+                  <img src="https://www.smartsites.com/media/service-featured-in-new-bloomberg.png"/>
+                  </li>
+                  <li>
+                  <img src="https://www.smartsites.com/media/service-featured-in-inc-magazine.png" />
+                  </li>
+                  <li>
+                  <img src="https://www.smartsites.com/media/service-featured-in-npr.png"/>
+                  </li>
+                  <li>
+                  <img  src="https://www.smartsites.com/media/service-featured-in-bloomberg-businessweek.png"/>
+                  </li>
+                </ul>
+              </div>
+      
+  </div>
+      <div className="left">
+      <img src="https://www.smartsites.com/media/smartsites-service-rated-badges.png"alt="America’s #1 Rated Digital Marketing Agency - SmartSites"/>
+      
+      </div>
+      </div>
+
+
+
+</section>
 
 
 </div>

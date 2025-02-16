@@ -1,3 +1,4 @@
+/* section 1 */
 .banner{
     background: url('https://www.smartsites.com/media/smartsites-services-page-banner.jpg');
     background-size: cover;
@@ -67,4 +68,69 @@
     max-width: 100%;
     height: auto;
    
+  }
+
+  /* section 2 */
+
+  .block-marketing__content{
+    display: flex;
+    flex-direction: row-reverse;
+    height: auto;
+    width: 100%;
+    gap: 10px;
+    padding: 20px 50px;
+    margin:  0 0 0 auto;
+  }
+  .right{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    padding-right: 4rem;
+  }
+
+  .left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+  }
+  .blue-text h5{
+    color: #02355A;
+    font-size:1.2rem;
+    font-weight: 600;
+    margin-bottom: 0;
+  }
+  .right h3{
+    margin-top: 0;
+    font-size: 2.5rem;
+    font-weight: 600;
+    line-height: 1.1;
+    color: #333333;
+    margin-left: 0;
+  }
+  .img-wrap{
+    display: flex;
+    position: left;
+    flex-direction: column;
+  }
+  
+  .img-wrap strong{
+   font-size: 1.3rem;
+   color: #333333;
+   font-weight: 400;
+  }
+.brand-image{
+    display: flex;
+    gap: 10px;
+    padding: 0;
+    list-style: none;
+    margin-top: 20px;
+  }
+  .left img{
+    width: 500px;
+    height: auto;
+    object-fit: contain;
+
   }
