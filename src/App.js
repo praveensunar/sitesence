@@ -1,6 +1,6 @@
-import Navbar from "./Navbar";
+import Navbar from "./components/Navbar/Navbar";
 import Services from "./Servicepage";
-import  Digital  from "./Digital-marketing service";
+import  Digital  from "./components/DigitalMarket/Digital-marketing";
 function App() {
     return (
         <div>

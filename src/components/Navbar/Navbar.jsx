@@ -18,11 +18,11 @@ export default function Navbar(){
 <ul className="navbar-nav">
 <li><a href="#">Services</a></li>
 <li>
-<a href="https://www.smartsites.com/work/" className="nav-link">Our Work</a></li>
+<a href="https://www.smartsites.com/work/">Our Work</a></li>
 <li>
-<a href="https://www.smartsites.com/company/" className="nav-link">Company</a></li>
+<a href="https://www.smartsites.com/company/">Company</a></li>
 <li>
-<a href="https://www.smartsites.com/contact/" className="nav-link">Contact</a></li>
+<a href="https://www.smartsites.com/contact/">Contact</a></li>
 </ul>
 </div>
 <a href="tel:2018706000" className="click-call gradient-text h5">201-870-6000</a>

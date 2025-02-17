@@ -66,9 +66,12 @@ nav{
     font-size: 25px;
     font-weight: 600;
 }
-
 .gradient-text:hover{
     color: #f39f0c;   
+}
+.navbar-nav a:hover{
+    color: #f39f0c;
+
 }
 .site-header{
     background-color: #FFC720;
