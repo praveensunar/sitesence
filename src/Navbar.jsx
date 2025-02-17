@@ -3,35 +3,6 @@ import "./Navbar.css";
 // import logo from './media/logo.svg';
 export default function Navbar(){
     return(
-        // <nav classNameName="navbar">
-        // <div classNameName="part1">
-        //     <h3>Join our 2025 Marketing Predictions Webinar on 2/27!</h3>
-        //     <h4><span>WARNING:</span> Scammers are using the SmartSites brand name. Do not get scammed.<span> Read More</span> </h4>   
-        // </div>
-        // <div classNameName="part2">
-        //     <img src={logo} alt='Logo'/>
-        
-
-        //     <ul>
-        //         <li>
-        //             <a href="#">Services</a>
-        //         </li>
-        //         <li>
-        //             <a href="#">Our Work</a>
-        //         </li>
-        //         <li>
-        //             <a href="#">Company</a>
-        //         </li>
-        //         <li>
-        //         <a href="#">Contact</a>
-        //         </li>
-        //         <li>
-        //         <a href="tel:+2018706000" classNameName='no'>201-870-6000</a>                   
-        //         </li>
-        //     </ul>
-        // </div>
-        // </nav>
-
 <header className="site-header">
 <div  className="top-bar-header">
 <p><a href="https://www.smartsites.com/whats-in-whats-out-2025-marketing-predictions/">Join our 2025 Marketing Predictions Webinar on 2/27!</a></p>

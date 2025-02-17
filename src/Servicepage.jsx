@@ -67,19 +67,13 @@ export default function Services(){
                   </li>
                 </ul>
               </div>
-      
-  </div>
-      <div className="left">
-      <img src="https://www.smartsites.com/media/smartsites-service-rated-badges.png"alt="America’s #1 Rated Digital Marketing Agency - SmartSites"/>
-      
       </div>
-      </div>
-
-
-
+        <div className="left">
+            <img src="https://www.smartsites.com/media/smartsites-service-rated-badges.png"alt="America’s #1 Rated Digital Marketing Agency - SmartSites"/>
+      
+        </div>
+    </div>
 </section>
-
-
 </div>
       );
     }
