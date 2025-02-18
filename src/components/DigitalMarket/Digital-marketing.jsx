@@ -17,7 +17,7 @@ export default function Digital(){
                 </div>
 
                 <div className="body">
-                    <ul>
+                    <ul> 
                     <li><a href="/web-design/wordpress-cms-development/">WordPress Design</a></li>
                     <li><a href="/web-design/magento-ecommerce-development/">Magento Design</a></li>
                     <li><a href="/web-design/shopify-ecommerce-development/">Shopify Design</a></li>
